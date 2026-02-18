@@ -14,7 +14,7 @@ Combat veteran and former Network Operations Technician with experience supporti
 - Industrial Networking & OT Foundations
 - System Troubleshooting & Root Cause Analysis
 
-I enjoy working on complex systems that require both analytical thinking and hands-on problem solving.
+I enjoy working on complex systems that require both analytical thinking and hands on problem solving.
 
 
 ## 🧰 Technologies & Tools
