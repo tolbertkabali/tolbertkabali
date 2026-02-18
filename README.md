@@ -18,21 +18,21 @@ I enjoy working on complex systems that require both analytical thinking and han
 
 
 ## 🧰 Technologies & Tools
-⚙️ **Engineering**
+**Engineering**
 - MATLAB / Simulink
 - SolidWorks
 - ANSYS (FEA fundamentals)
 
-🔌**Automation**
+**Automation**
 - PLC Ladder Logic
 - SCADA Concepts
 - Modbus / Ethernet-IP fundamentals
 
-💻**Programming**
+**Programming**
 - Python(basic)
 - Git / GitHub
 
-🌐**Systems Background**
+**Systems Background**
 - Network Operations (NOC experience)
 - Industrial communication fundamentals
 - Systems modeling & integration
