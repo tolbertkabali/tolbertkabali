@@ -5,7 +5,6 @@ A Mechanical Engineer focused on automation, controls, and industrial systems in
 I work at the intersection of mechanical systems, electrical hardware, and software; building, modeling, and troubleshooting engineered systems.
 Combat veteran and former Network Operations Technician with experience supporting mission critical systems.
 
-
 # 🚀 What I Work On
 
 - Industrial Automation & PLC Programming
@@ -16,8 +15,7 @@ Combat veteran and former Network Operations Technician with experience supporti
 
 I enjoy working on complex systems that require both analytical thinking and hands on problem solving.
 
-
-## 🧰 Technologies & Tools
+## 🧰 Technologies & Tools I use
 **Engineering**
 - MATLAB / Simulink
 - SolidWorks
@@ -55,6 +53,8 @@ I enjoy working on complex systems that require both analytical thinking and han
 **tolbertkabali/tolbertkabali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+PROJECTS:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
