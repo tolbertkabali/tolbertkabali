@@ -39,7 +39,6 @@ I enjoy working on complex systems that require both analytical thinking and han
 # 🎯 Current Focus
 - Advancing PLC and control systems design
 - Building automation portfolio projects
-- Expanding into OT Cybersecurity fundamentals
 - Deepening industrial networking knowledge
 
 ## 📬 Contact
